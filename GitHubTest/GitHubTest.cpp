@@ -3,9 +3,12 @@
 
 #include <iostream>
 
+
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Hello World!";
+    return 0;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
